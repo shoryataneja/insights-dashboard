@@ -1,5 +1,6 @@
 import React from 'react';
 import { ScrollView, View, StyleSheet } from 'react-native';
+import { StatusBar } from 'expo-status-bar';
 import Header from '../components/Header';
 import StabilitySummary from '../components/StabilitySummary';
 import CycleTrends from '../components/CycleTrends';
@@ -10,6 +11,7 @@ import BottomTabBar from '../components/BottomTabBar';
 
 const HomeScreen = () => (
   <View style={styles.container}>
+    <StatusBar style="dark" />
     <Header />
     <ScrollView contentContainerStyle={styles.scroll} showsVerticalScrollIndicator={false}>
       <StabilitySummary />
