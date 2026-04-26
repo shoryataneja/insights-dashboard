@@ -6,7 +6,7 @@ A React Native mobile application that presents health and wellness data through
 
 ## Live Links
 
-- **GitHub Repository:** [](https://github.com/shoryataneja/insights-dashboard)
+- **GitHub Repository:** (https://github.com/shoryataneja/insights-dashboard)
 - **Demo / Screen Recording:** https://drive.google.com/file/d/1mN8mihSybLh3hiJsfS7Q5Eq0dGEFrdFi/view?usp=sharing
 ---
 
