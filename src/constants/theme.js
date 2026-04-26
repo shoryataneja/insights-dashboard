@@ -1,3 +1,4 @@
+// App-wide design tokens
 export const COLORS = {
   background: '#F9F5F6',
   cardBg: '#FFFFFF',
